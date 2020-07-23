@@ -20,7 +20,7 @@ Avanced English, intermediate Spanish and basic German.
 ## Projects:
 
 * **Análise do Airbnb em Lisboa:** https://bit.ly/30IfC22
-
+* **Análise do COVID-19:** https://bit.ly/2WOOGLi
 ---
 
 
