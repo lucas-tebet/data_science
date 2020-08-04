@@ -21,6 +21,7 @@ Avanced English, intermediate Spanish and basic German.
 
 * **Análise do Airbnb em Lisboa:** https://bit.ly/30IfC22
 * **Análise do COVID-19:** https://bit.ly/2WOOGLi
+* **Detecção de fraude em cartão de crédito:** https://bit.ly/2XuX8Qp
 ---
 
 
