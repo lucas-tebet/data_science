@@ -9,7 +9,7 @@
 
 Professional with experience in national and multinational companies, in pulp and paper, automotive, industrial automation and technology segments. 
 
-Graduated in Mechanical Engineering in Instituto Mauá de Tecnologia and a graduate course in Insper with a Marketing specialization. On going courses focused on programming and Data Science, such as Pyhton and SQL.
+Graduated in Mechanical Engineering in Instituto Mauá de Tecnologia and a graduate course in Insper with a Marketing specialization. On going courses focused on programming and Data Science, such as Python and SQL.
 
 Avanced English, intermediate Spanish and basic German.
 
