@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/LinkedIn-lucastebet-blue.svg)](https://www.linkedin.com/in/lucas-tebet-234826117/)
 
 # Lucas Tebet
-<sub>*Data Scientist*</sub>
+<sub>*Business Analyst*</sub>
 
 Profisssional com experiência em companhias nacionais e multinacionais, dos segmentos papel/celulose, automomação industrial, automotivo e tecnologia. 
 Graduação em Engenharia Mecânica pelo Instituto Mauá de Tecnologia e pós graduaçao em Marketing pelo Insper. 
