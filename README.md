@@ -3,10 +3,13 @@
 # Lucas Tebet
 <sub>*Business Analyst*</sub>
 
-Profisssional com experiência em companhias nacionais e multinacionais, dos segmentos papel/celulose, automomação industrial, automotivo e tecnologia. 
-Graduação em Engenharia Mecânica pelo Instituto Mauá de Tecnologia e pós graduaçao em Marketing pelo Insper. 
+"Without data, you're just another person with an opinion" - W. Edwards Deming
 
-Desenvolvimento de projetos em Data Science usando Python e SQL em modelos de Machine Learning, como Regressão, Classificação e Clusterização. Complementando com Data Visualization em dashboards no Power BI.
+Graduated in Engineering, I worked in companies from different segments, always with a data driven mindset, extracting data to generate relevant analysis for the business and providing insights for better decision making.
+
+Nowadays, I work at banQi, a Via Group fintech, in Business Intelligence area. I create dashboards and develop analysis for the Product and Marketing teams.
+
+Looker, SQL and Python are some of the tools that I mainly use in my daily activities.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucas-tebet-234826117/)
