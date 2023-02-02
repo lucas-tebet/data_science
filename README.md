@@ -7,7 +7,7 @@
 
 Graduated in Engineering, I worked in companies from different segments, always with a data driven mindset, extracting data to generate relevant analysis for the business and providing insights for better decision making.
 
-Nowadays, I work at banQi, a Via Group fintech, in Business Intelligence area. I create dashboards and develop analysis for the Product and Marketing teams.
+Nowadays, I work at banQi, a Brazilian fintech that belongs to Via Group, in Business Intelligence area. I create dashboards and develop analysis for the Product and Marketing teams.
 
 Looker, SQL and Python are some of the tools that I mainly use in my daily activities.
 
